@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyagw3"
+version = "0.1.0"
+description = "Python 3 AGWPE TCP/IP API client for packet radio"
+readme = "README.md"
+authors = [{name = "Kris Kirby", email = "ke4ahr@gmail.com"}]
+license = {text = "LGPL-3.0-or-later"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
+    "Operating System :: OS Independent",
+    "Topic :: Communications :: Ham Radio",
+]
+requires-python = ">=3.7"
+dependencies = []
