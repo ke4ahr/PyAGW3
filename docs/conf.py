@@ -1,4 +1,7 @@
 # Sphinx configuration file for PyAGW3 documentation
+# Copyright (C) 2025-2026 Kris Kirby, KE4AHR
+# SPDX-License-Identifier: LGPL-3.0-or-later
+
 
 import os
 import sys
